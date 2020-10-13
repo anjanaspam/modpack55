@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sec_number" label="Sec number" language="en" table="sys_security_acl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sec_number</element>
+            <help/>
+            <hint/>
+            <label>Sec number</label>
+            <language>en</language>
+            <name>sys_security_acl</name>
+            <plural>Sec numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-13 14:04:06</sys_created_on>
+            <sys_id>55b957c653f3101071a3ddeeff7b12c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sec number</sys_name>
+            <sys_package display_value="glob_test1" source="ea7913c653f3101071a3ddeeff7b12de">ea7913c653f3101071a3ddeeff7b12de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="glob_test1">ea7913c653f3101071a3ddeeff7b12de</sys_scope>
+            <sys_update_name>sys_documentation_sys_security_acl_sec_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-13 14:04:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
